@@ -3,7 +3,6 @@
 #include <time.h>
 
 int count;
-
 int linearSearch(int *a, int n, int k)
 {
     int i;
